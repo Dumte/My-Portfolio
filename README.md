@@ -29,7 +29,7 @@ If you have any inquiries or would like to collaborate on a project, please feel
 
 - Email: dnjoshworld@gmail.com
 
-- LinkedIn: linkedin.com/in/dnjosh10
+- LinkedIn: www.linkedin.com/in/dnjosh10
 
 
 I'm always open to new opportunities and challenges, so don't hesitate to get in touch!
