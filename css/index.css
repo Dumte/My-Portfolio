@@ -212,7 +212,7 @@ nav .nav-links li a {
 nav .nav-links {
   position: absolute;
   top: 110px;
-  right: -100%;
+  right: 100%;
   bottom: 0;
   width: 60%;
   height: 100vh;
